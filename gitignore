@@ -1,0 +1,13 @@
+# MATLAB
+*.asv
+*.m~
+slprj/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
