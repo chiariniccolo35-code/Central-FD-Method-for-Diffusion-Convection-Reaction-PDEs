@@ -150,9 +150,9 @@ The user enters `f` and the boundary data functions directly as MATLAB anonymous
 - Adding a non-zero convection term `b` and reaction coefficient `q` increases the error relative to the pure-diffusion (Poisson) case, but the matrix conditioning behaves similarly to the Poisson-with-homogeneous-Dirichlet case
 - Numerical results were consistent across both modalities — whether the exact solution `u` or the data `f` (plus boundary functions) is provided, the FD solver produces consistent, theoretically-expected behavior
 
-## Author
+## Authors
 
-**Niccolò Chiari**, with Natalie Elena Cernei and Alberto Cozzani  
+Niccolò Chiari, Natalie Elena Cernei and Alberto Cozzani  
 University of Bologna — Academic Year 2023/2024
 
 ## License
